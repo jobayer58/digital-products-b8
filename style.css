@@ -68,4 +68,40 @@
 .about-title{
     text-align: center;
     padding-top: 20px;
+    color: white;
+}
+.box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 5px 5px 50px rgb(75, 74, 74);
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color:white;
+    border-radius: 10px;
+}
+.icon{
+    width: 70px;
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-description{
+    padding: 5px;
+}
+.service-container{
+    display: flex;
+    /* padding: 10px; */
+    /* width: 100px; */
+    justify-content: space-around;
+    padding: 20px;
+
+
+}
+.back{
+    background-color: #000;
 }
